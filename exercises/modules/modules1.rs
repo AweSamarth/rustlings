@@ -13,7 +13,7 @@ mod sausage_factory {
 
     pub fn make_sausage() {
         get_secret_recipe();
-        println!("sausage!");
+        println!("sausage!" );
         
     }
 }
